@@ -1,6 +1,6 @@
-### Hey there, I'm Suyeon 👩🏻🖐🏻
+### Hey there, I'm Suyeon.
 
-## _"Anyone can be cynical, Dare to be optimist."_
+## _"I am an artist who love to build something creative.🎨"_
 - 👩🏻‍💻Frontend Developer
 - 🧘🏻‍♀️Yogini
 
@@ -17,12 +17,11 @@
 <img align="left" height="23" width="23" src="https://img.icons8.com/fluent/96/github.png" alt="Github" />
 
 <br />
+<br />
 
 ### Connect with me
-[<img align="left" height="23" width="23" src="https://img.icons8.com/fluent/96/instagram-new.png" alt="Instagram" />][instagram]
-
-[<img align="left" height="23" width="23" src="https://img.icons8.com/color/2x/linkedin.png" alt="LinkedIn" />][linkedin]
-
+[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][instagram]
 
 [instagram]:https://www.instagram.com/suyeon___kang/
 [linkedin]: https://www.linkedin.com/in/suyeon-kang-0387331aa/
