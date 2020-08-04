@@ -21,7 +21,7 @@
 
 ### Connect with me
 [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][instagram]
+[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [instagram]:https://www.instagram.com/suyeon___kang/
 [linkedin]: https://www.linkedin.com/in/suyeon-kang-0387331aa/
