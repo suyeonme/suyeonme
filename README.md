@@ -1,4 +1,4 @@
-### Hey there, I'm Suyeon.
+### Suyeon.
 
 ## _"I am an artist who love to build something creative.🎨"_
 - 👩🏻‍💻Frontend Developer
