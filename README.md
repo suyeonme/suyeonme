@@ -1,6 +1,8 @@
 ### Suyeon.
 
-## _"I am an artist who love to build something creative.🎨"_
+## _"I am an artist who love building something creative.🎨"_
+"I believe simple is the best. I have a passion for minimalism in development.
+
 - 👩🏻‍💻Frontend Developer
 - 🧘🏻‍♀️Yogini
 
