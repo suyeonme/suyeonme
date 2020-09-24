@@ -1,7 +1,7 @@
 ## _"I am an artist who love building something creative.🎨"_
 I believe simple is the best. I have a passion for minimalism in development.<br>
 I love to build service intuitive but as simple as possible in both design and code.<br>
-I'm always welcome when it comes to coding. Feel free just to say hi!
+I'm always welcome when it comes to coding. Feel free just to say hi :>
 
 - 👩🏻‍💻 Frontend Web Developer
 - 🧘🏻‍♀️Yogini
