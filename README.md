@@ -1,7 +1,6 @@
 ## _"I am an artist who love building something creative.🎨"_
-I believe simple is the best. I have a passion for minimalism in development.<br>
-I love to build service intuitive but as simple as possible in both design and code.<br>
-I'm always welcome when it comes to coding.:p
+I am a frontend developer who love minimalism in code and design. <br>
+I'm always welcome when it comes to coding!
 
 - 👩🏻‍💻 Frontend Web Developer
 - 🤿 Lover of underwater sports
