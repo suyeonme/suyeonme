@@ -1,4 +1,3 @@
-## _"I am an artist who love building something creative.🎨"_
 I am a frontend developer who love minimalism in code and design. <br>
 I'm always welcome when it comes to coding!
 
