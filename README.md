@@ -1,8 +1,8 @@
-I am a frontend developer who love minimal code and design.<br>
+I am a web developer who love minimal code and design.<br>
 
-- 👩🏻‍💻 Frontend Web Developer
-- 🤿 Underwater sports lover
+- 👩🏻‍💻 Web Developer
+- 🌊 Underwater sports lover
 
-Medium: https://medium.com/suyeonme
+en: https://medium.com/suyeonme
 <br/>
-Velog: https://velog.io/@suyeonme
+ko: https://velog.io/@suyeonme
