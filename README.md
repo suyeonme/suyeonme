@@ -5,4 +5,5 @@ I am a junior developer who want to contribute a beautiful journey to making a b
 
 en: https://medium.com/suyeonme
 <br/>
-ko: https://velog.io/@suyeonme
+ko: [https://suyeonme.tistory.com](https://suyeonme.tistory.com)
+
