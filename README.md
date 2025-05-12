@@ -1,2 +1,2 @@
-I am a web developer who love to build cool shit.
+I am a software engineer who love to build cool shit.
 
